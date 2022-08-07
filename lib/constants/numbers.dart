@@ -1,0 +1,1 @@
+const MAX_AMOUNT_PER_ITEM = 5;
